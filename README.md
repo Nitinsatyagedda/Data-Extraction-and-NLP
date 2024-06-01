@@ -7,6 +7,7 @@ This is an open source project in this project data extraction, NLP and text ana
 4. Variables
 5. Derivatives Of Variables
 6. Final output
+7. Contact
 # Objective
 The objective of this assignment is to extract textual data articles from the given URL and perform text analysis to compute variables that are explained below. 
 # Data Extraction
