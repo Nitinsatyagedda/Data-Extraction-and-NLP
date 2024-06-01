@@ -49,4 +49,4 @@ Range is from 0 to +1
 The final program is 'Final.py'
 The output file is 'Output_data.xlsx'
 # Contact
-If their is any query related to program. Feel free to ask nitinsatya@gmail.com
+If their is any query related to program. Feel free to ask nitinsatyagedda@gmail.com
